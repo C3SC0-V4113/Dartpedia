@@ -1,19 +1,14 @@
-name: cli
-publish_to: none
+name: wikipedia
 description: A sample command-line application.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
 
 environment:
   sdk: ^3.11.4
-resolution: workspace
 
+resolution: workspace
 # Add regular dependencies here.
 dependencies:
-  http: ^1.6.0
   path: ^1.9.0
-  command_runner:
-    path: ../command_runner
 
 dev_dependencies:
   lints: ^6.0.0

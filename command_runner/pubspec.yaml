@@ -5,6 +5,7 @@ version: 1.0.0
 
 environment:
   sdk: ^3.11.4
+resolution: workspace
 
 # Add regular dependencies here.
 dependencies:
