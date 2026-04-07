@@ -1,0 +1,2 @@
+[2026-04-06 22:20:06.111630 - errors] WARNING: ArgumentException: Commands can only have up to one argument. 
+[2026-04-06 22:21:50.196510 - errors] WARNING: ArgumentException: The first world of input must be a command. 
